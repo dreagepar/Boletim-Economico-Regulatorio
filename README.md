@@ -15,7 +15,7 @@ O boletim agrega 4 índices de inflação que compõem uma cesta de índices uti
 
 Os indicadores são publicados mensalmente pelo IBGE (Instituto Brasileiro de Geografia e Estatística) e FGV-IBRE (Instituto Brasileiro de Economia da Fundação Getúlio Vargas) e a série histórica podem ser encontrados em seus respectivos domínios.
 
-Além da inflação, o boletim faz o acompanhamento preço do barril de petróleo Brent e do combustível Diesel S10. Os dados de referência para a série histórica são publicados no IPEADATA e a série histórica do Diesel S10 é publicado pela ANP (Agência Nacional de Petróleo).
+Além da inflação, o boletim faz o acompanhamento do preço do barril de petróleo Brent e do combustível Diesel S10. Os dados de referência para a série histórica são publicados no IPEADATA e a série histórica do Diesel S10 é publicado pela ANP (Agência Nacional de Petróleo).
 
 ## Dependências
 
